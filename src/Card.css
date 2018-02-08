@@ -1,0 +1,11 @@
+.card {
+    width: 20%;
+    padding-bottom: 20%;
+    background: grey;
+    border-radius: 5%;
+    float: left;
+    margin: 1.66%;
+    margin: 10px;
+    transition: background 0.6s;
+    /*display: inline-block;*/
+}

@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #232323;
+    font-family: "Montserrat", "Avenir"
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container {
+    margin: 20px auto;
+    max-width: 600px;
+}

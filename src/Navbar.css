@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    line-height: 1.1;
+    font-weight: normal;
+    font-size: 46px;
+    color: white;
+    background: #9b59b6;
+    margin: 0;
+    text-transform: uppercase;
+    padding: 50px 0;
+}
+
+#stripe {
+    background: white;
+    height: 30px;
+    text-align: center;
+}
+
+button {
+    border: 0;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: #3498db;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.3s;
+    outline: none;
+    cursor: pointer;
+}
+
+button:hover {
+    color: white;
+    background-color: #3498db;
+}
